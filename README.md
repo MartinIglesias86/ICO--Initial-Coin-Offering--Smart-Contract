@@ -1,4 +1,4 @@
-# Smart Contract that interact with a dApp to mint an NFTs Collection.
+# Smart Contract that interact with a dApp to mint Crypto Dev Tokens.
 
 In this project I'm going to use [React](https://reactjs.org/), [Solidity](https://soliditylang.org/), [Hardhat](https://hardhat.org/), and [Node.js](https://nodejs.org/) to create an app to to mint an NFTs Collection, with the deployment of the Smart Contract on
 the Rinkeby test net.
